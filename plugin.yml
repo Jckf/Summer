@@ -1,0 +1,7 @@
+name: Summer
+main: no.jckf.summer.Summer
+version: 1.0
+commands:
+    summer:
+       description: Controls weather and time locking.
+       usage: /<command> <weather/time>
